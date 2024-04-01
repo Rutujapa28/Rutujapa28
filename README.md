@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rutujapa28
+- 👋 Hi, I’m Rutuja
 - 👀 I’m interested in exploring
 - 🌱 I’m currently learning Automation Testing
 - 📫 How to reach me rutujapa23@gmail.com
